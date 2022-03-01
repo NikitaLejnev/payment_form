@@ -1,0 +1,16 @@
+{
+  "name": "payment_form",
+  "version": "1.0.0",
+  "description": "A simple payment form created with React, Express and MongoDB.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "react",
+    "mongodb"
+  ],
+  "author": "Nikita Lezhnev",
+  "license": "ISC"
+}
